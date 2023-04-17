@@ -1,7 +1,7 @@
-# Tauri + Vanilla
+# Project
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+![Project diagram](project.png "Project diagram")
 
-## Recommended IDE Setup
+Scrapper-API - API used to get data from docker container - https://github.com/edwss/Scrapper-API
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Docker-Scripts - Scripts used to scrappy data from websites - https://github.com/edwss/Scrapper-Docker
